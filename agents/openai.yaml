@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号文章插图"
+  short_description: "为微信公众号正文分析结构、规划位置并生成风格统一且可直接使用的插图"
+  default_prompt: "Use $wechat-article-illustrator to analyze this WeChat article and create a consistent inline illustration plan and assets."
