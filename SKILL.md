@@ -6,7 +6,7 @@ metadata:
     homepage: https://github.com/JimLiu/baoyu-skills#baoyu-article-illustrator
 ---
 
-# WeChat Article Illustrator
+# 微信公众号文章插图（WeChat Article Illustrator）
 
 Analyze WeChat Official Account articles, identify illustration positions, and generate publication-ready inline images with consistent Type × Style × Palette choices.
 
